@@ -35,11 +35,4 @@
 
 ---
 
-### 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/lschwob) (replace with your real link if available)
-- [Email](mailto:your.email@example.com) (replace with your real email if you’d like)
-
----
-
 > “The best way to predict the future is to invent it.” – Alan Kay
