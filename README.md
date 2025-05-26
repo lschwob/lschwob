@@ -1,4 +1,4 @@
-# Hi there, I'm Louis Schwob 👋
+# Hi there, I'm Léonard Schwob 👋
 
 🎓 **Student** | 🤖 **AI Researcher & Data Scientist at BNP CIB**
 
@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 
-![Louis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lschwob&show_icons=true&theme=radical)
+![Léonard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lschwob&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lschwob&layout=compact&theme=radical)
 
 ---
