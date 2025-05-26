@@ -8,7 +8,7 @@
 
 - Passionate about technology, data, and AI.
 - Currently diving deep into AI research and data science at BNP CIB.
-- Always eager to learn, collaborate, and solve real-world problems with code!
+- Always eager to learn, collaborate, and solve real-world problems !
 
 ---
 
